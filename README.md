@@ -1,4 +1,4 @@
-![Minha Foto](assets/profile-picture.jpeg)
+![Foto do João Pedro](assets/profile_picture.jpeg)
 
 # João Pedro Nogueira Lucas
 
