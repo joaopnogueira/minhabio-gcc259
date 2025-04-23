@@ -15,9 +15,8 @@ joaonl577@gmail.com
 
 ## Experiência Profissional
 
-### **SYDLE** — *Software Engineer Trainee*  
-📍 Minas Gerais, Brasil  
-🗓️ 02/2024 – Presente  
+### **SYDLE** — **Software Engineer Trainee** 
+*Minas Gerais, Brasil*  |  *02/2024 – Presente*
 
 - Desenvolvimento de software com foco em front-end.
 - Atuação no design system da empresa com Stencil.js.
@@ -25,26 +24,23 @@ joaonl577@gmail.com
 - Versionamento com Git e gerenciamento de pacotes com pnpm.
 - HTML, CSS, SASS, JavaScript e TypeScript aplicados em componentes responsivos e acessíveis.
 
-### **Comp Júnior** — *Desenvolvedor de Front-End*  
-📍 Minas Gerais, Brasil  
-🗓️ 05/2023 – 02/2024  
+### **Comp Júnior** — **Desenvolvedor de Front-End**
+*Minas Gerais, Brasil*  |  *05/2023 – 02/2024*
 
 - Criação de landing pages e sites estáticos.
 - Desenvolvimento com HTML, CSS, JavaScript e Vue.js.
 - Colaboração em equipes ágeis utilizando Scrum e Kanban.
 - Garantia de qualidade e usabilidade em interfaces.
 
-### **Comp Júnior** — *UI/UX Designer*  
-📍 Minas Gerais, Brasil  
-🗓️ 05/2023 – 02/2024  
+### **Comp Júnior** — **UI/UX Designer** 
+*Minas Gerais, Brasil*  |  *05/2023 – 02/2024*
 
 - Redesign do site institucional com foco em UX.
 - Prototipagem de interfaces no Figma.
 - Mentoria de trainees em design e metodologias ágeis.
 
 ### **Comp Júnior** — *Assessor de Marketing*  
-📍 Minas Gerais, Brasil  
-🗓️ 05/2023 – 02/2024  
+*Minas Gerais, Brasil*  |  *05/2023 – 02/2024*
 
 - Criação de conteúdo para redes sociais (Instagram e LinkedIn).
 - Produção de fotos, vídeos e newsletters.
