@@ -1,3 +1,5 @@
+![Minha Foto](assets/profile-picture.jpeg)
+
 # João Pedro Nogueira Lucas
 
 São José, Divinópolis, Minas Gerais  
